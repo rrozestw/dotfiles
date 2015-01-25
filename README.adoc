@@ -1,0 +1,13 @@
+= dotfiles
+
+== .bashrc
+
+[source,bash]
+..bashrc
+----
+echo "test"
+----
+
+== ojej!
+
+Way more soon!
